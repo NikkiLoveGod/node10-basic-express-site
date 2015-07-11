@@ -8,4 +8,5 @@
 out
 gen
 .DS_Store
-
+.env
+.env.js
